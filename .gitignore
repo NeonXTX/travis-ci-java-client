@@ -6,3 +6,6 @@ build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
+
+# Ignore Netbeans Gradle plugin folder
+/.nb-gradle/
