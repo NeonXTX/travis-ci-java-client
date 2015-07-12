@@ -1,4 +1,7 @@
+# Ignore Gradle runtime folder
 .gradle
+
+# Ignore build folder
 build/
 
 # Ignore Gradle GUI config
